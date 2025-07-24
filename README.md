@@ -78,22 +78,22 @@ src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c8
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Uday-Berad22"
-    alt="Uday-Berad22"
+    src="https://komarev.com/ghpvc/?username=AbhiBerad01"
+    alt="AbhiBerad01"
   />
 </p>
 
 
 <div align='center'>
-<a href="Uday-Berad22">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Uday-Berad22&show_icons=true&include_all_commits=true&theme=radical" alt="Uday-Berad22's github stats" />
+<a href="AbhiBerad01">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AbhiBerad01&show_icons=true&include_all_commits=true&theme=radical" alt="AbhiBerad01's github stats" />
 </a>
 <p></p>
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Uday-Berad22&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbhiBerad01&layout=compact&theme=radical" />
 </a>
 <p></p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Uday-Berad22&theme=cobalt)](https://github.com/Uday-Berad22)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=AbhiBerad01&theme=cobalt)](https://github.com/AbhiBerad01)
 
 </p>
 </div>
